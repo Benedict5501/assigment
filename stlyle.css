@@ -1,0 +1,23 @@
+.body{
+    width: 100%;
+    background-color:#272c2f ;
+    height: 100vh;
+    display: flex;
+    gap: 30px;
+    
+}
+.child{
+    background-color: #173b53;
+    height: 40vh;
+    margin-top: 30px;
+    
+    
+
+}
+
+.wife{
+    background-color:#173b53 ;
+    height: 40vh;
+    margin-top: 30px;
+    
+}
